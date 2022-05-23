@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"SystemGUI","l":"AddBalanceWindow"},{"p":"SystemGUI","l":"AddUserWindow"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"SystemGUI","l":"Customer"},{"p":"SystemGUI","l":"CustomerModify"},{"p":"SystemGUI","l":"HomePage"},{"p":"SystemGUI","l":"Login"},{"p":"SystemGUI","l":"TransactionsList"}];updateSearchResults();
